@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [API](oni.wiki/API.md)
+* [API](./oni.wiki/API.md)
 

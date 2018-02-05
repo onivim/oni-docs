@@ -1,2 +1,2 @@
 # oni-docs
-Documentation for Oni
+Documentation for Oni2

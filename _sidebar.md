@@ -1,0 +1,12 @@
+- Setup
+    - [Installation](./oni.wiki/Installation-Guide.md)
+- Usage
+    - [Features](./oni.wiki/Features.md)
+    - [Shortcuts](./oni.wiki/Shortcuts.md)
+    - [Language Support](./oni.wiki/Language-Support.md)
+- Customization
+    - [API](./oni.wiki/API.md)
+    - [Configuration](./oni.wiki/Installation-Guide.md)
+    - [Plugins](./oni.wiki/Plugins.md)
+    - [Theming](./oni.wiki/Theming.md)
+- [FAQ](./oni.wiki/FAQ.md)

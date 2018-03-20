@@ -6,7 +6,7 @@
     - [Language Support](./oni.wiki/Language-Support.md)
 - Customization
     - [API](./oni.wiki/API.md)
-    - [Configuration](./oni.wiki/Installation-Guide.md)
+    - [Configuration](./oni.wiki/Configuration.md)
     - [Plugins](./oni.wiki/Plugins.md)
     - [Theming](./oni.wiki/Theming.md)
 - [FAQ](./oni.wiki/FAQ.md)

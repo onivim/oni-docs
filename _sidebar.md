@@ -5,8 +5,11 @@
     - [Shortcuts](./oni.wiki/Shortcuts.md)
     - [Language Support](./oni.wiki/Language-Support.md)
 - Customization
-    - [API](./oni.wiki/API.md)
     - [Configuration](./oni.wiki/Configuration.md)
+    - [API Examples](./oni.wiki/API-Examples.md)
     - [Plugins](./oni.wiki/Plugins.md)
     - [Theming](./oni.wiki/Theming.md)
 - [FAQ](./oni.wiki/FAQ.md)
+- [Release Notes](./oni.wiki/Whats-New-In-Oni.md)
+- [Roadmap](./oni.wiki/Roadmap.md)
+

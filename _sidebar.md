@@ -10,6 +10,6 @@
     - [Plugins](./oni.wiki/Plugins.md)
     - [Theming](./oni.wiki/Theming.md)
 - [FAQ](./oni.wiki/FAQ.md)
-- [Release Notes](./oni.wiki/Whats-New-In-Oni.md)
+- [Release Notes](./oni.wiki/Whats-New-in-Oni.md)
 - [Roadmap](./oni.wiki/Roadmap.md)
 
